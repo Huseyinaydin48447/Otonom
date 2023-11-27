@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek</folder>
+	<filename>Mogu-li-ya-Khotchu-li-ya.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek\Mogu-li-ya-Khotchu-li-ya.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>752</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>221</ymin>
+			<xmax>485</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

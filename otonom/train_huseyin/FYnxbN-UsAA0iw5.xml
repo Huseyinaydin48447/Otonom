@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>FYnxbN-UsAA0iw5.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\FYnxbN-UsAA0iw5.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>76</ymin>
+			<xmax>597</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

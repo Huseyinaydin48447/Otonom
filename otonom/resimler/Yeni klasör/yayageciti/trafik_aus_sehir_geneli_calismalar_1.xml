@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\yayageciti</folder>
+	<filename>trafik_aus_sehir_geneli_calismalar_1.jpeg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\yayageciti\trafik_aus_sehir_geneli_calismalar_1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yaya_gecidi_levha</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>930</xmin>
+			<ymin>425</ymin>
+			<xmax>1026</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

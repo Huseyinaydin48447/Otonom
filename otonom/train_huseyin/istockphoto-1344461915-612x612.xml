@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\saga girilmez</folder>
+	<filename>istockphoto-1344461915-612x612.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\saga girilmez\istockphoto-1344461915-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>612</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saga_girilmez</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>83</ymin>
+			<xmax>468</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

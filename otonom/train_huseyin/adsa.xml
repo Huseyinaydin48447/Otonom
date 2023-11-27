@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\köpek</folder>
+	<filename>adsa.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\köpek\adsa.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kopek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>192</ymin>
+			<xmax>415</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

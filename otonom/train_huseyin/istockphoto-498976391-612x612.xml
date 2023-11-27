@@ -1,0 +1,42 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\girilmez</folder>
+	<filename>istockphoto-498976391-612x612.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\girilmez\istockphoto-498976391-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Girilmez</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>357</ymin>
+			<xmax>555</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Girilmez</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>385</ymin>
+			<xmax>450</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>стоп-орожного-знака-в-турции-dur-67010654.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\стоп-орожного-знака-в-турции-dur-67010654.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>23</ymin>
+			<xmax>639</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

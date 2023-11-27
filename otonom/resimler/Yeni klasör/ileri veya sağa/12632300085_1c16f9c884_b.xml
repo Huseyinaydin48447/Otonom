@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa</folder>
+	<filename>12632300085_1c16f9c884_b.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa\12632300085_1c16f9c884_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri_veya_saga</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>231</ymin>
+			<xmax>427</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

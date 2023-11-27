@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa</folder>
+	<filename>ankara-buyuksehir-belediyesi-baskent-merkez-basta-olmak-uzere-002.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa\ankara-buyuksehir-belediyesi-baskent-merkez-basta-olmak-uzere-002.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri_veya_saga</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>508</ymin>
+			<xmax>344</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

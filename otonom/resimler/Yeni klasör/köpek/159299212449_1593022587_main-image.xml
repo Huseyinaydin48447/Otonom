@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\köpek</folder>
+	<filename>159299212449_1593022587_main-image.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\köpek\159299212449_1593022587_main-image.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>780</width>
+		<height>1040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kopek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>315</ymin>
+			<xmax>475</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

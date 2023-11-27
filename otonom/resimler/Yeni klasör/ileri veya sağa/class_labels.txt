@@ -1,0 +1,1 @@
+ileri_veya_saga:Color 255 255 0

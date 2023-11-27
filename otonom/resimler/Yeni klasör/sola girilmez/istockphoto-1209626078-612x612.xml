@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\sola girilmez</folder>
+	<filename>istockphoto-1209626078-612x612.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\sola girilmez\istockphoto-1209626078-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>410</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sola_girilmez</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>119</ymin>
+			<xmax>381</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

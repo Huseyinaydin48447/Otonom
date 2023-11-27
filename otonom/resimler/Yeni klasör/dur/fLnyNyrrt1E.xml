@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>fLnyNyrrt1E.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\fLnyNyrrt1E.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1214</xmin>
+			<ymin>99</ymin>
+			<xmax>1939</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+</annotation>

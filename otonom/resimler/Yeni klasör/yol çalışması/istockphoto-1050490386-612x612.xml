@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\yol çalışması</folder>
+	<filename>istockphoto-1050490386-612x612.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\yol çalışması\istockphoto-1050490386-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yol_calismasi_levha</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>13</ymin>
+			<xmax>572</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

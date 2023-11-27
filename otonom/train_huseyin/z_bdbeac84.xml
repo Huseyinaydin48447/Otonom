@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>z_bdbeac84.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\z_bdbeac84.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>280</ymin>
+			<xmax>503</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

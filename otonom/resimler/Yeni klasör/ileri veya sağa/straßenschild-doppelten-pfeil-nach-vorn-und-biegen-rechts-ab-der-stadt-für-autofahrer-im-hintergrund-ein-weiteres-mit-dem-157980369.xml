@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa</folder>
+	<filename>straßenschild-doppelten-pfeil-nach-vorn-und-biegen-rechts-ab-der-stadt-für-autofahrer-im-hintergrund-ein-weiteres-mit-dem-157980369.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa\straßenschild-doppelten-pfeil-nach-vorn-und-biegen-rechts-ab-der-stadt-für-autofahrer-im-hintergrund-ein-weiteres-mit-dem-157980369.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri_veya_saga</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>46</ymin>
+			<xmax>459</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

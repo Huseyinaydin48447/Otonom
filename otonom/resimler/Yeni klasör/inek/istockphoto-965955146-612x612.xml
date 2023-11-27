@@ -1,0 +1,55 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek</folder>
+	<filename>istockphoto-965955146-612x612.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek\istockphoto-965955146-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>612</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>243</ymin>
+			<xmax>288</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>263</ymin>
+			<xmax>151</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>278</ymin>
+			<xmax>552</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

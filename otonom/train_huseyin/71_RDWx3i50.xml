@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\sola girilmez</folder>
+	<filename>71_RDWx3i50.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\sola girilmez\71_RDWx3i50.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>673</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sola_girilmez</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>59</ymin>
+			<xmax>905</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

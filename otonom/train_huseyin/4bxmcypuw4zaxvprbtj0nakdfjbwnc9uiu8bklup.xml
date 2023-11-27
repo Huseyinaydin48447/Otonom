@@ -1,0 +1,55 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek</folder>
+	<filename>4bxmcypuw4zaxvprbtj0nakdfjbwnc9uiu8bklup.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek\4bxmcypuw4zaxvprbtj0nakdfjbwnc9uiu8bklup.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>561</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>218</ymin>
+			<xmax>599</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>664</xmin>
+			<ymin>222</ymin>
+			<xmax>793</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>948</xmin>
+			<ymin>297</ymin>
+			<xmax>991</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

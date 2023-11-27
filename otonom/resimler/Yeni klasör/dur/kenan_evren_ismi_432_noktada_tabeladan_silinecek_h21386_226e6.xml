@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>kenan_evren_ismi_432_noktada_tabeladan_silinecek_h21386_226e6.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\kenan_evren_ismi_432_noktada_tabeladan_silinecek_h21386_226e6.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>652</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>99</ymin>
+			<xmax>406</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

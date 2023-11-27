@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\sola girilmez</folder>
+	<filename>depositphotos_190655802-stock-photo-turn-left-is-prohibited-traffic.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\sola girilmez\depositphotos_190655802-stock-photo-turn-left-is-prohibited-traffic.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sola_girilmez</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>163</ymin>
+			<xmax>1439</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

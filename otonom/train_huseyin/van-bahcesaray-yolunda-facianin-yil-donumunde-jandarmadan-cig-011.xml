@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>van-bahcesaray-yolunda-facianin-yil-donumunde-jandarmadan-cig-011.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\van-bahcesaray-yolunda-facianin-yil-donumunde-jandarmadan-cig-011.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>180</ymin>
+			<xmax>854</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

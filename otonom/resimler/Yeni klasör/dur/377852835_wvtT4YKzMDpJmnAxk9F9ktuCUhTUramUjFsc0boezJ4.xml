@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>377852835_wvtT4YKzMDpJmnAxk9F9ktuCUhTUramUjFsc0boezJ4.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\377852835_wvtT4YKzMDpJmnAxk9F9ktuCUhTUramUjFsc0boezJ4.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>18</ymin>
+			<xmax>141</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

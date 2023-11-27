@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa</folder>
+	<filename>prescribing-sign-move-straight-to-right-russia-prescribing-sign-move-straight-to-right-russia-isolated-white-174909477.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\ileri veya sağa\prescribing-sign-move-straight-to-right-russia-prescribing-sign-move-straight-to-right-russia-isolated-white-174909477.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1689</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ileri_veya_saga</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>14</ymin>
+			<xmax>1590</xmax>
+			<ymax>1585</ymax>
+		</bndbox>
+	</object>
+</annotation>

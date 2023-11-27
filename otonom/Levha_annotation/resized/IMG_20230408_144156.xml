@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\Levha_annotation\resized</folder>
+	<filename>IMG_20230408_144156.jpg</filename>
+	<path>C:\Users\Asus\Desktop\Levha_annotation\resized\IMG_20230408_144156.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>950</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yol_calismasi</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>277</ymin>
+			<xmax>479</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\yayageciti</folder>
+	<filename>647A8859.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\yayageciti\647A8859.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yaya_gecidi_levha</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>150</ymin>
+			<xmax>823</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

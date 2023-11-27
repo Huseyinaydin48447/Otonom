@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur</folder>
+	<filename>Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_2019_(5).jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\dur\Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_2019_(5).jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dur</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>963</xmin>
+			<ymin>1559</ymin>
+			<xmax>1861</xmax>
+			<ymax>2357</ymax>
+		</bndbox>
+	</object>
+</annotation>

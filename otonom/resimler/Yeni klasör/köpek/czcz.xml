@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\köpek</folder>
+	<filename>czcz.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\köpek\czcz.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kopek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>235</ymin>
+			<xmax>524</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

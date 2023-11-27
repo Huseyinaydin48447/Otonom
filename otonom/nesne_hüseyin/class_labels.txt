@@ -1,0 +1,2 @@
+nesne:Color 204 90 17
+:Color 255 255 0

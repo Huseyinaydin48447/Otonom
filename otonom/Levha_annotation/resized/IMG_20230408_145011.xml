@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\Levha_annotation\resized</folder>
+	<filename>IMG_20230408_145011.jpg</filename>
+	<path>C:\Users\Asus\Desktop\Levha_annotation\resized\IMG_20230408_145011.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>950</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>park_yapilmaz_yerde</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>191</ymin>
+			<xmax>860</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

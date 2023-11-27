@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek</folder>
+	<filename>a-cow-on-the-road-985785_960_720.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\inek\a-cow-on-the-road-985785_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>960</width>
+		<height>636</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inek</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>119</ymin>
+			<xmax>558</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

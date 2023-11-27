@@ -1,0 +1,29 @@
+<annotation>
+	<folder>C:\Users\Asus\Desktop\resimler\Yeni klasör\yayageciti</folder>
+	<filename>AQ5Bgoo3Rpo.jpg</filename>
+	<path>C:\Users\Asus\Desktop\resimler\Yeni klasör\yayageciti\AQ5Bgoo3Rpo.jpg</path>
+	<source>
+		<database>Unknown</database>
+		<annotation>Unknown</annotation>
+		<image>Unknown</image>
+	</source>
+	<size>
+		<width>604</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yaya_gecidi_levha</name>
+		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>17</ymin>
+			<xmax>450</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>
